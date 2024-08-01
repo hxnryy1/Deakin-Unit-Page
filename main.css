@@ -16,18 +16,16 @@ p {
   font-family: Arial
 }
 
+
 div {
   background-color: darkcyan;
   text-align: right;
-<<<<<<< HEAD
-<<<<<<< HEAD
   }
-=======
+
+th, td {
+ padding: 8px;
+ text-align: left;
+ border-bottom: 1px solid #ddd;
+ font-family: Arial
 }
-=======
-}
-
->>>>>>> parent of dd3e285 (Update main.css)
-
-
->>>>>>> parent of dd3e285 (Update main.css)
+tr:nth-child(odd) {background-color: #f2f2f2;}
